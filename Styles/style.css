@@ -195,4 +195,10 @@ ul {
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  #top-wrapper header .heading {
+    width: 50%;
+    font-size: 3rem;
+  }
+}
 /*# sourceMappingURL=style.css.map */
