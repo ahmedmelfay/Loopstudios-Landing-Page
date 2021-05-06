@@ -1,0 +1,21 @@
+$dark-grey:#8c8c8c;
+$very-dark-grey:#696969;
+%alata{
+    font-family: 'Alata', sans-serif;
+    font-weight: 400;
+}
+%josef{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+}
+%p-m-bs{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 0.4s;
+}
+%anchor{
+    color: white;
+    text-decoration: none;
+    cursor: unset;
+}
